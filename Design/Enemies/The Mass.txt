@@ -1,0 +1,11 @@
+Description:
+A hulking mass of flesh. Unstoppable.
+If it finds you, you're probably already dead.
+You're only hope is to run.
+
+Gameplay:
+A large, imposing enemy. One the player distinctly does not want to take on
+can take serious punishment, and can't be killed, only temporarily stopped.
+
+The Mass will be triggered by specific actions related to progression, before either chasing the player or standing in their way
+This serves to either create intense set pieces, or to more overtly encourage stealth in some sections, else the player will have to waste mass amounts of ammo.

@@ -1,0 +1,40 @@
+Movement:
+General movement for the game should feel weighty, your a survivor, not an Italian plumber
+
+Walking:
+The most basic form of movement. I do not feel the need to explain this one. Will be limited to left and right.
+
+Running:
+Walking, but faster. Activated with shift.
+Will be significantly louder than walking, and should be reserved for when the player is spotted.
+
+Crouching:
+Walking, but slower and more sneaky. Activated with either C or CTRL.
+will lower the players hitbox and make enemies take longer to detect the player.
+will not save players who have been spotted, they should try running.
+
+Crawling:
+Basically walking again, will only be utilized in specific ventilation sections. Not activated with a button press.
+
+Jumping:
+Classic jumping. will be activated with Space Bar.
+Won't be a very tall jump, but enough to get over some gaps. No, players will not be able to jump over enemies (except maybe the crawler, but I'm undecided on that).
+
+Mantling:
+There will be desks, crates, and other low objects that block players on their linear path.
+Mantling will be activated with Space Bar, and will allow the player to climb over low objects
+
+Doors:
+The game will be split into a vast array of rooms and hallways, which will be accessed through doors
+Players will be able to interact with E on doors either in the background or on the edges of a stage to transport to the next one
+All enemies except The Mass will be stopped by doors.
+
+Vents:
+Basically reskinned doors, but lead to ventilation shafts players crawl through.
+
+Ladders:
+Some walls in the stage will have ladders against them.
+Players will be able to climb said ladders by either jumping into them, or pressing E
+
+
+

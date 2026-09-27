@@ -1,0 +1,7 @@
+Description:
+A handgun issued to security personnel. Chambered in 9mm with a 15 round magazine.
+
+Gameplay:
+The go to weapon. Has the most common ammo, but the lowest damage.
+will be suitable for dispatching husks and crawlers, but in hordes the handgun will struggle to keep up
+bullets will stun any enemy it hits, but will not penetrate to hit targets behind it.

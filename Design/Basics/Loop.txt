@@ -1,0 +1,14 @@
+The Loop:
+
+This is a 2D side-scrolling survival horror game with stealth elements.
+Players will find themselves aboard a large spacecraft with most of the crew turned into grotesque monsters.
+Players are to navigate the ship, finding and using key items in their limited inventory space to unlock new parts of the ship.
+It will be up to the player to either sneak past or fight their way through the ship to find answers and escape.
+
+Major inspirations include, but are not limited to:
+The Resident Evil Franchise
+Signalis
+Dead Space
+Prey
+Metal Gear Solid
+Splinter Cell (specifically the games on GBA, as they are side-scrollers)

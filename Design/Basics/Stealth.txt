@@ -1,0 +1,23 @@
+Stealth:
+The player will not be immediately noticed (in most cases) when they enter a room
+Players can attempt to use well timed movements and the environment, to remain undetected
+If the player avoids combat, and remains out of sight, enemies will leave the player alone
+Once a player is detected, the only way to lose detection would be to enter a different room or to kill all enemies in the current room
+
+Detection Speed:
+Players will have a default detection speed, which will change depending on what the player is doing and where they are relative to the enemy
+If the player crouch walks and keeps their distance, they will be detected slowly
+If the player is running near an enemy, they will be detected by enemies very quickly
+Players will be able to take cover and block line of sight, which will prevent enemies from detecting them entirely
+This system will be ignored once the player starts shooting loud weapons, then all enemies will know where the player is
+
+Hiding Places:
+Lockers, under desks, opened crates, etc.
+These can be entered by the player by pressing E, and will stop enemies from detecting them entirely
+this will not save or protect players if they have already been detected
+
+Line of Sight:
+Enemies will have a set of invisible rays coming from the front of their hit box, from top to bottom.
+If the player is within this ray, the enemy will start detecting them
+If the ray hits an object, the ray stops there
+this basically means the enemies see in front of them

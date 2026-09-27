@@ -1,0 +1,13 @@
+Description:
+A revolver issued to ship captains. It's chambered in .44 magnum with a 6 round cylinder.
+
+Gameplay:
+For lack of a better term, the "F*** YOU" weapon.
+
+A late game reward for players who explore. 
+Does incredibly high damage, destroying almost anything in 1 shot.
+Will penetrate similar to the shotgun, but through less targets without losing damage.
+
+Ammo is very scarce, any spare boxes only coming with 1 round
+
+Powerful, but should be used wisely

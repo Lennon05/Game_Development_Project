@@ -1,0 +1,12 @@
+Description:
+A utility knife, issued to one of the crew members.
+not much, but better than nothing.
+
+Gameplay:
+The "oh no, I've run out of ammo" weapon.
+allows the player to slash a short distance ahead of them.
+weak damage, and incredibly risky to use.
+
+The knife is the first weapon a player will acquire, and will be unique in the fact it takes up no inventory space.
+can be used quietly, but its not strong enough to kill any enemies in one swing, so stealth still won't last too long.
+purposefully terrible, to discourage its use. But it will be there, as an option.

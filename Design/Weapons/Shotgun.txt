@@ -1,0 +1,13 @@
+Description:
+A pump-action shotgun, issued to security personnel for riot situations. holds 6 12 Gauge shells in its tube magazine.
+
+Gameplay:
+A stronger weapon than the handgun, but with significantly less ammo.
+Perfect for large hordes.
+
+While I'm uncertain if I'll be adding a whole spread mechanic (as that sounds hard to program) the shotgun will still be able to shoot through multiple targets.
+this will mean that players can stun hordes that are chasing, and use this opportunity to run or to kill many of the horde.
+Damage will decrease as shots penetrate targets, but stun times will not.
+
+this gives the shotgun some purpose outside of horde clear
+high damage on single targets, high pen stun for large groups.

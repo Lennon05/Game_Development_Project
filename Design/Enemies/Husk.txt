@@ -1,0 +1,9 @@
+Description:
+What remains of the crew. Mutilated, bloodied, a husk of what was once there
+They patrol the halls and kill anything in their way
+
+Gameplay:
+The basic enemy. They search for the player, they chase the player, they (try to) kill the player.
+They are the most common across the game, and will probably be the enemy players kill the most
+
+Basically your standard zombie. move slowly when they have not detected the player, and run just slightly slower than the player once they have been alerted.

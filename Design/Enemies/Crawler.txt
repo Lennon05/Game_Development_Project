@@ -1,0 +1,16 @@
+Description:
+A more heavily mutated form of the Husk, these creatures use what remains of their arms to crawl on the ground, or in some cases across ceilings
+They are usually dormant until they detect prey, in which case they will fling themselves towards it, slashing and gnawing.
+
+Gameplay:
+Crawlers are to serve two main purposes:
+1. make players have to switch their aim from high to low, so players don't just aim at the same level constantly
+2. jumpscares. Lots of jumpscares
+
+If a crawler is on a ceiling, it will jump down after the player, skipping the usual detection system
+Otherwise, they follow normal detection rules
+
+Crawlers are faster than a Husk, but take less damage to kill.
+In practice, their faster speed should make them priority targets for players, as they will run faster than a player can.
+
+
